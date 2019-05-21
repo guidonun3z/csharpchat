@@ -12,6 +12,7 @@ namespace chat_winforms_1
 {
     public partial class Form1 : Form
     {  conexion cn = new conexion();
+       Client cl = new Client();
         public Form1()
         {
             InitializeComponent();
@@ -26,6 +27,7 @@ namespace chat_winforms_1
 
         private void btn_conectar_Click(object sender, EventArgs e)
         {
+            cl.Connect(txt_ip.Text, int.Parse(txt_puerto.Text));
             
         }
 

@@ -37,10 +37,11 @@ namespace chat_winforms_1
             // Socket socketForClient = tcpListener.AcceptSocket();
             TcpClient socketForClient = tcpListener.AcceptTcpClient();
 
+             MessageBox.Show("esperando al cliente");
 
             if (socketForClient.Connected)
             {
-                MessageBox.Show("esperando al cliente");
+               
                 // Si se conecta
                 MessageBox.Show("Cliente conectado.");
 
@@ -50,38 +51,39 @@ namespace chat_winforms_1
                 StreamReader streamReader = new StreamReader(networkStream);
 
 
-                try
-                {
-                    while (socketForClient.Connected)
-                    {
+                /* try
+                 {
+                     while (socketForClient.Connected)
+                     {
 
-                        //Esta es la data a enviar.
-                        string theString = Console.ReadLine();
-                        //Escribimos la data en el stream
-                        streamWriter.WriteLine(theString);
-                        //Ahora le decimos que la mande.
-                        streamWriter.Flush();
+                         //Esta es la data a enviar.
+                         string theString = Console.ReadLine();
+                         //Escribimos la data en el stream
+                         streamWriter.WriteLine(theString);
+                         //Ahora le decimos que la mande.
+                         streamWriter.Flush();
 
-                        //Esperamos data del cliente
-                        //Y la escribimos por consola.
-                        theString = streamReader.ReadLine();
+                         //Esperamos data del cliente
+                         //Y la escribimos por consola.
+                         theString = streamReader.ReadLine();
 
-                        Console.WriteLine("Pc2 : " + theString);
-                    }
-                }
+                         Console.WriteLine("Pc2 : " + theString);
+                     }
+                 }
 
-                finally
-                {
-                    //Cerramos las conexiones
-                    streamReader.Close();
-                    streamWriter.Close();
-                    networkStream.Close();
-                    socketForClient.Close();
+                 finally
+                 {
+                     //Cerramos las conexiones
+                     streamReader.Close();
+                     streamWriter.Close();
+                     networkStream.Close();
+                     socketForClient.Close();
 
-                }
+                 }*/
 
             }
-
+            else
+            { MessageBox.Show("error"); }
         }
     }
 
@@ -97,13 +99,12 @@ namespace chat_winforms_1
                 //IPAddress ipaddress = IPAddress.Parse(server_ip);
                 //Creamos un TcpCliente y le pasamos 
                 //el server y el puerto.
-                socketForServer = new TcpClient( server_ip, port);
+                socketForServer = new TcpClient(server_ip, port);
             }
 
             catch
             {
-                Console.WriteLine(
-                "No se pudo conectar a {0}:9898", server_ip);
+                MessageBox.Show("No se pudo conectar a {0}:9898", server_ip);
                 return;
             }
 
@@ -114,7 +115,7 @@ namespace chat_winforms_1
             StreamReader streamReader = new System.IO.StreamReader(networkStream);
             StreamWriter streamWriter = new System.IO.StreamWriter(networkStream);
 
-            try
+           /* try
             {
                 string outputString = streamReader.ReadLine();
                 Console.WriteLine(outputString);
@@ -131,7 +132,7 @@ namespace chat_winforms_1
             {
                 networkStream.Close();
             }
-
+            */
         }
 
     }
