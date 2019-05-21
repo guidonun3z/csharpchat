@@ -13,7 +13,7 @@ namespace chat_winforms_1
 {
     class conexion
     {
-
+        TcpClient socketForClient;
         //public  void Start(String server_ip, int port)
         public void Start()
 
@@ -24,7 +24,7 @@ namespace chat_winforms_1
 
             IPAddress ipaddress = IPAddress.Parse("127.0.0.1");
 
-            TcpListener tcpListener = new TcpListener(ipaddress,1234);
+            TcpListener tcpListener = new TcpListener(ipaddress,4321);
 
 
             //Iniciamos la esucha
@@ -33,57 +33,61 @@ namespace chat_winforms_1
 
             //Este método queda bloqueado hasta que
             //se conecte un cliente
+             MessageBox.Show("esperando al cliente");
 
             // Socket socketForClient = tcpListener.AcceptSocket();
-            TcpClient socketForClient = tcpListener.AcceptTcpClient();
+            socketForClient = tcpListener.AcceptTcpClient();
 
-             MessageBox.Show("esperando al cliente");
+
 
             if (socketForClient.Connected)
             {
                
                 // Si se conecta
-                MessageBox.Show("Cliente conectado.");
-
-                //Creamos el networkSream, el Reader y el writer
-                NetworkStream networkStream = socketForClient.GetStream();//new NetworkStream(socketForClient);
-                StreamWriter streamWriter = new StreamWriter(networkStream);
-                StreamReader streamReader = new StreamReader(networkStream);
-
-
-                /* try
-                 {
-                     while (socketForClient.Connected)
-                     {
-
-                         //Esta es la data a enviar.
-                         string theString = Console.ReadLine();
-                         //Escribimos la data en el stream
-                         streamWriter.WriteLine(theString);
-                         //Ahora le decimos que la mande.
-                         streamWriter.Flush();
-
-                         //Esperamos data del cliente
-                         //Y la escribimos por consola.
-                         theString = streamReader.ReadLine();
-
-                         Console.WriteLine("Pc2 : " + theString);
-                     }
-                 }
-
-                 finally
-                 {
-                     //Cerramos las conexiones
-                     streamReader.Close();
-                     streamWriter.Close();
-                     networkStream.Close();
-                     socketForClient.Close();
-
-                 }*/
+                MessageBox.Show("Cliente conectado.");                
 
             }
             else
             { MessageBox.Show("error"); }
+        }
+        public string msg_writer(String mensaje)
+        {
+            //Creamos el networkSream, el Reader y el writer
+            NetworkStream networkStream = socketForClient.GetStream();//new NetworkStream(socketForClient);
+            StreamWriter streamWriter = new StreamWriter(networkStream);
+            StreamReader streamReader = new StreamReader(networkStream);
+
+
+            try
+            {
+                /*while (socketForClient.Connected)
+                {*/
+
+                //Esta es la data a enviar.
+
+                //Escribimos la data en el stream
+                streamWriter.WriteLine(mensaje);
+                //Ahora le decimos que la mande.
+                streamWriter.Flush();
+
+                //Esperamos data del cliente
+                //Y la escribimos por consola.
+                //theString = streamReader.ReadLine();
+
+                //Console.WriteLine("Pc2 : " + theString);
+                return streamReader.ReadLine();
+                /*}*/
+            }
+
+            finally
+            {
+                //Cerramos las conexiones
+                streamReader.Close();
+                streamWriter.Close();
+                networkStream.Close();
+                socketForClient.Close();
+
+            }
         }
     }
 
@@ -104,7 +108,7 @@ namespace chat_winforms_1
 
             catch
             {
-                MessageBox.Show("No se pudo conectar a {0}:9898", server_ip);
+                MessageBox.Show("No se pudo conectar a {0}:1234", server_ip);
                 return;
             }
 

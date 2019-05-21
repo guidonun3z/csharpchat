@@ -18,3 +18,13 @@ E:\GNA\puntonet\p-22\chat_winforms_1\csharpchat\chat_winforms_1\obj\Debug\chat_w
 E:\GNA\puntonet\p-22\chat_winforms_1\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.CoreCompileInputs.cache
 E:\GNA\puntonet\p-22\chat_winforms_1\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.exe
 E:\GNA\puntonet\p-22\chat_winforms_1\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.pdb
+E:\cs\csharpchat\chat_winforms_1\bin\Debug\chat_winforms_1.exe.config
+E:\cs\csharpchat\chat_winforms_1\bin\Debug\chat_winforms_1.exe
+E:\cs\csharpchat\chat_winforms_1\bin\Debug\chat_winforms_1.pdb
+E:\cs\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csprojAssemblyReference.cache
+E:\cs\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.Form1.resources
+E:\cs\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.Properties.Resources.resources
+E:\cs\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.GenerateResource.cache
+E:\cs\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.CoreCompileInputs.cache
+E:\cs\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.exe
+E:\cs\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.pdb
