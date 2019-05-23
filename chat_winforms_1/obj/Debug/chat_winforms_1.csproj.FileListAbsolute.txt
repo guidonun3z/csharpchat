@@ -28,3 +28,13 @@ E:\cs\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.GenerateResour
 E:\cs\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.CoreCompileInputs.cache
 E:\cs\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.exe
 E:\cs\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.pdb
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\bin\Debug\chat_winforms_1.exe.config
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\bin\Debug\chat_winforms_1.exe
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\bin\Debug\chat_winforms_1.pdb
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csprojAssemblyReference.cache
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.Form1.resources
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.Properties.Resources.resources
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.GenerateResource.cache
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.CoreCompileInputs.cache
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.exe
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.pdb

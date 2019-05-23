@@ -35,5 +35,10 @@ namespace chat_winforms_1
         {
             cn.Start();
         }
+
+        private void btn_enviar_Click(object sender, EventArgs e)
+        {
+            cn.enviar(txt_mensaje.Text);
+        }
     }
 }
