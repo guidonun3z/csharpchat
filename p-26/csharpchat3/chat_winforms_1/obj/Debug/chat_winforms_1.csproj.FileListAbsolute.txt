@@ -1,0 +1,70 @@
+E:\GNA\puntonet\p-22\chat_winforms_1\chat_winforms_1\bin\Debug\chat_winforms_1.exe.config
+E:\GNA\puntonet\p-22\chat_winforms_1\chat_winforms_1\bin\Debug\chat_winforms_1.exe
+E:\GNA\puntonet\p-22\chat_winforms_1\chat_winforms_1\bin\Debug\chat_winforms_1.pdb
+E:\GNA\puntonet\p-22\chat_winforms_1\chat_winforms_1\obj\Debug\chat_winforms_1.csprojAssemblyReference.cache
+E:\GNA\puntonet\p-22\chat_winforms_1\chat_winforms_1\obj\Debug\chat_winforms_1.Form1.resources
+E:\GNA\puntonet\p-22\chat_winforms_1\chat_winforms_1\obj\Debug\chat_winforms_1.Properties.Resources.resources
+E:\GNA\puntonet\p-22\chat_winforms_1\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.GenerateResource.cache
+E:\GNA\puntonet\p-22\chat_winforms_1\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.CoreCompileInputs.cache
+E:\GNA\puntonet\p-22\chat_winforms_1\chat_winforms_1\obj\Debug\chat_winforms_1.exe
+E:\GNA\puntonet\p-22\chat_winforms_1\chat_winforms_1\obj\Debug\chat_winforms_1.pdb
+E:\GNA\puntonet\p-22\chat_winforms_1\csharpchat\chat_winforms_1\bin\Debug\chat_winforms_1.exe.config
+E:\GNA\puntonet\p-22\chat_winforms_1\csharpchat\chat_winforms_1\bin\Debug\chat_winforms_1.exe
+E:\GNA\puntonet\p-22\chat_winforms_1\csharpchat\chat_winforms_1\bin\Debug\chat_winforms_1.pdb
+E:\GNA\puntonet\p-22\chat_winforms_1\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csprojAssemblyReference.cache
+E:\GNA\puntonet\p-22\chat_winforms_1\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.Form1.resources
+E:\GNA\puntonet\p-22\chat_winforms_1\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.Properties.Resources.resources
+E:\GNA\puntonet\p-22\chat_winforms_1\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.GenerateResource.cache
+E:\GNA\puntonet\p-22\chat_winforms_1\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.CoreCompileInputs.cache
+E:\GNA\puntonet\p-22\chat_winforms_1\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.exe
+E:\GNA\puntonet\p-22\chat_winforms_1\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.pdb
+E:\cs\csharpchat\chat_winforms_1\bin\Debug\chat_winforms_1.exe.config
+E:\cs\csharpchat\chat_winforms_1\bin\Debug\chat_winforms_1.exe
+E:\cs\csharpchat\chat_winforms_1\bin\Debug\chat_winforms_1.pdb
+E:\cs\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csprojAssemblyReference.cache
+E:\cs\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.Form1.resources
+E:\cs\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.Properties.Resources.resources
+E:\cs\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.GenerateResource.cache
+E:\cs\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.CoreCompileInputs.cache
+E:\cs\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.exe
+E:\cs\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.pdb
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\bin\Debug\chat_winforms_1.exe.config
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\bin\Debug\chat_winforms_1.exe
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\bin\Debug\chat_winforms_1.pdb
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csprojAssemblyReference.cache
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.Form1.resources
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.Properties.Resources.resources
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.GenerateResource.cache
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.CoreCompileInputs.cache
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.exe
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.pdb
+E:\GNA\puntonet\csharpchat\chat_winforms_1\bin\Debug\chat_winforms_1.exe.config
+E:\GNA\puntonet\csharpchat\chat_winforms_1\bin\Debug\chat_winforms_1.exe
+E:\GNA\puntonet\csharpchat\chat_winforms_1\bin\Debug\chat_winforms_1.pdb
+E:\GNA\puntonet\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csprojAssemblyReference.cache
+E:\GNA\puntonet\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.Form1.resources
+E:\GNA\puntonet\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.Properties.Resources.resources
+E:\GNA\puntonet\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.GenerateResource.cache
+E:\GNA\puntonet\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.CoreCompileInputs.cache
+E:\GNA\puntonet\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.exe
+E:\GNA\puntonet\csharpchat\chat_winforms_1\obj\Debug\chat_winforms_1.pdb
+E:\GNA\puntonet\csharpchat3\chat_winforms_1\obj\Debug\chat_winforms_1.csprojAssemblyReference.cache
+E:\GNA\puntonet\csharpchat3\chat_winforms_1\obj\Debug\chat_winforms_1.Form1.resources
+E:\GNA\puntonet\csharpchat3\chat_winforms_1\obj\Debug\chat_winforms_1.Properties.Resources.resources
+E:\GNA\puntonet\csharpchat3\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.GenerateResource.cache
+E:\GNA\puntonet\csharpchat3\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.CoreCompileInputs.cache
+E:\GNA\puntonet\csharpchat3\chat_winforms_1\obj\Debug\chat_winforms_1.exe
+E:\GNA\puntonet\csharpchat3\chat_winforms_1\obj\Debug\chat_winforms_1.pdb
+E:\GNA\puntonet\csharpchat3\chat_winforms_1\bin\Debug\chat_winforms_1.exe.config
+E:\GNA\puntonet\csharpchat3\chat_winforms_1\bin\Debug\chat_winforms_1.exe
+E:\GNA\puntonet\csharpchat3\chat_winforms_1\bin\Debug\chat_winforms_1.pdb
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\p-26\csharpchat3\chat_winforms_1\bin\Debug\chat_winforms_1.exe.config
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\p-26\csharpchat3\chat_winforms_1\bin\Debug\chat_winforms_1.exe
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\p-26\csharpchat3\chat_winforms_1\bin\Debug\chat_winforms_1.pdb
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\p-26\csharpchat3\chat_winforms_1\obj\Debug\chat_winforms_1.csprojAssemblyReference.cache
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\p-26\csharpchat3\chat_winforms_1\obj\Debug\chat_winforms_1.Form1.resources
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\p-26\csharpchat3\chat_winforms_1\obj\Debug\chat_winforms_1.Properties.Resources.resources
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\p-26\csharpchat3\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.GenerateResource.cache
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\p-26\csharpchat3\chat_winforms_1\obj\Debug\chat_winforms_1.csproj.CoreCompileInputs.cache
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\p-26\csharpchat3\chat_winforms_1\obj\Debug\chat_winforms_1.exe
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\p-26\csharpchat3\chat_winforms_1\obj\Debug\chat_winforms_1.pdb
