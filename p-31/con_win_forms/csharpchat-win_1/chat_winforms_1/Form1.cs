@@ -56,8 +56,6 @@ namespace chat_winforms_1
             StreamWriter streamWriter = new StreamWriter(networkStream);
 
             string mensaje;
-         
-
                 mensaje = txt_mensaje.Text + Environment.NewLine;
                 txt_ml_mensajes.Text= txt_ml_mensajes.Text + mensaje ;
                 streamWriter.WriteLine(mensaje);

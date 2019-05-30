@@ -114,8 +114,6 @@ namespace chat_winforms_1
                     //mensaje = mensaje + Environment.NewLine;
                     // txt_ml_mensajes.Text = txt_ml_mensajes.Text + mensaje;
                     form.txt_ml_mensajes.Text = form.txt_ml_mensajes.Text + mensaje;
-
-
                     Form1._Form1.update(mensaje);
                    
                     MessageBox.Show(mensaje);
@@ -124,10 +122,7 @@ namespace chat_winforms_1
 
             } while (socketservidor.Connected);
         }
-        public void actualiza_chat(Form1 form)
-        {
-            txt_ml_mensajes.Text = form.txt_ml_mensajes.Text; 
-        }
+     
 
     }
 }
